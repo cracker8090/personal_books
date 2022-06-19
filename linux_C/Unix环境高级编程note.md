@@ -61,6 +61,8 @@
     - [未命名信号量](###未命名信号量)
   - [套接字](##套接字) 
 
+网页在线阅读：[unix环境高级编程note](https://hellolinux.xyz/posts/e39ad6a7.html) 
+
 # C语言
 
 - void * malloc(size_t n); 未初始化的，memset初始化
@@ -1240,3 +1242,5 @@ int type : 用于确定协议类型
 int protocol : 用于消歧义，决定网络协议，通常是0
 
 参考：[Unix高级编程笔记](https://github.com/arkingc/note/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.md) 
+
+书籍：[《UNIX环境高级编程(第三版)》](https://awesome-programming-books.github.io/linux/UNIX环境高级编程(第三版).pdf) 
